@@ -1,6 +1,6 @@
 # juejin
 
-> juejin  
+> juejin webapp 
 
 ## Build Setup
 
