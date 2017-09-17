@@ -1,0 +1,38 @@
+html,body{width: 100%;height: 100%;color: #333;font-size: 12px;font-family:"Heiti SC","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3",verdana;}
+body{background-color: #fff;}
+*{margin: 0;padding: 0}
+li{list-style: none;}
+a{text-decoration: none;color: #333;}
+.wrapper{width:768px;margin: 0 auto;}
+.fl{float: left;}
+.fr{float: right;}
+.clearFix:after{content:'';display: block;clear: both;}
+.textwrap{ overflow: hidden;white-space: nowrap;text-overflow: ellipsis; }
+
+a img,
+:link img,
+:visited img {
+    border: 0;
+}
+input::-webkit-input-placeholder{
+    color: #8E8E8E;
+}
+
+
+img {
+    vertical-align: top;
+}
+
+input {
+    outline: none;
+}
+
+textarea {
+    resize: none;
+}
+
+
+
+
+
+
